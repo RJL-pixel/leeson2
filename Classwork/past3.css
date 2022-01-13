@@ -1,0 +1,22 @@
+#b2{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#b1{
+    height: 400px;
+    width: 700px;
+    background-color: gray;
+    box-shadow: -40px -30px 30px #DEB887 ;
+}
+
+#b3{
+    position: fixed;
+    height: 120px;
+    width: 5px;
+    background-color: red;
+}
+
+#b4 {
+padding: 30px;
+}

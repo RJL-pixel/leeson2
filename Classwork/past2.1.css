@@ -1,0 +1,58 @@
+#background {
+
+    background-color: rgb(37,37,37) ;
+    width: 1300px;
+    height: 700px;
+    position: fixed;
+}
+
+
+#Button1{
+    background-color: rgb(37,37,37) ;
+    border: 5px solid rgb(255, 110, 23);
+    padding: 15px 80px 15px 80px;
+    position: fixed;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-top: 150px;
+    color: rgb(255, 110, 23) ;
+    font-size: 15px;
+
+
+}
+
+#Button2{
+    background-color: rgb(37,37,37) ;
+    border: 5px solid #00FFFF;
+    padding: 15px 80px 15px 80px;
+    position: fixed;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-top: 220px;
+    color: #00FFFF;
+    font-size: 15px;
+}
+
+#Button3{
+    background-color: rgb(37,37,37) ;
+    border: 5px solid rgb(255, 83, 167);
+    padding: 15px 80px 15px 80px;
+    position: fixed;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-top: 290px;
+    color: rgb(255, 83, 167);;
+    font-size: 15px;
+}
+
+#Button4{
+    background-color: rgb(37, 37, 37) ;
+    border: 5px solid rgb(255, 60, 60);
+    padding: 15px 80px 15px 80px;
+    position: fixed;
+    border-radius: 50px;
+    margin-left: 600px;
+    margin-top: 360px;
+    color: rgb(255, 60, 60);
+    font-size: 15px;
+}
